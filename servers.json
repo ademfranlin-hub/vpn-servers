@@ -1,0 +1,602 @@
+[
+  {
+    "country": "🇺🇸 الولايات المتحدة",
+    "servers": [
+      {
+        "name": "USA Server 1",
+        "ip": "usa1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "USA Server 2",
+        "ip": "usa2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "USA Server 3",
+        "ip": "usa3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "USA Server 4",
+        "ip": "usa4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "USA Server 5",
+        "ip": "usa5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇬🇧 المملكة المتحدة",
+    "servers": [
+      {
+        "name": "UK Server 1",
+        "ip": "uk1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "UK Server 2",
+        "ip": "uk2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "UK Server 3",
+        "ip": "uk3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "UK Server 4",
+        "ip": "uk4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "UK Server 5",
+        "ip": "uk5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇩🇪 ألمانيا",
+    "servers": [
+      {
+        "name": "Germany Server 1",
+        "ip": "germany1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Germany Server 2",
+        "ip": "germany2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Germany Server 3",
+        "ip": "germany3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Germany Server 4",
+        "ip": "germany4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Germany Server 5",
+        "ip": "germany5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇨🇦 كندا",
+    "servers": [
+      {
+        "name": "Canada Server 1",
+        "ip": "canada1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Canada Server 2",
+        "ip": "canada2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Canada Server 3",
+        "ip": "canada3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Canada Server 4",
+        "ip": "canada4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Canada Server 5",
+        "ip": "canada5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇫🇷 فرنسا",
+    "servers": [
+      {
+        "name": "France Server 1",
+        "ip": "france1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "France Server 2",
+        "ip": "france2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "France Server 3",
+        "ip": "france3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "France Server 4",
+        "ip": "france4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "France Server 5",
+        "ip": "france5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇦🇺 أستراليا",
+    "servers": [
+      {
+        "name": "Australia Server 1",
+        "ip": "australia1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Australia Server 2",
+        "ip": "australia2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Australia Server 3",
+        "ip": "australia3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Australia Server 4",
+        "ip": "australia4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Australia Server 5",
+        "ip": "australia5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇯🇵 اليابان",
+    "servers": [
+      {
+        "name": "Japan Server 1",
+        "ip": "japan1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Japan Server 2",
+        "ip": "japan2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Japan Server 3",
+        "ip": "japan3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Japan Server 4",
+        "ip": "japan4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Japan Server 5",
+        "ip": "japan5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇰🇷 كوريا الجنوبية",
+    "servers": [
+      {
+        "name": "Korea Server 1",
+        "ip": "korea1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Korea Server 2",
+        "ip": "korea2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Korea Server 3",
+        "ip": "korea3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Korea Server 4",
+        "ip": "korea4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Korea Server 5",
+        "ip": "korea5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇳🇱 هولندا",
+    "servers": [
+      {
+        "name": "Netherlands Server 1",
+        "ip": "netherlands1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Netherlands Server 2",
+        "ip": "netherlands2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Netherlands Server 3",
+        "ip": "netherlands3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Netherlands Server 4",
+        "ip": "netherlands4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Netherlands Server 5",
+        "ip": "netherlands5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇸🇪 السويد",
+    "servers": [
+      {
+        "name": "Sweden Server 1",
+        "ip": "sweden1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Sweden Server 2",
+        "ip": "sweden2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Sweden Server 3",
+        "ip": "sweden3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Sweden Server 4",
+        "ip": "sweden4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Sweden Server 5",
+        "ip": "sweden5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇧🇷 البرازيل",
+    "servers": [
+      {
+        "name": "Brazil Server 1",
+        "ip": "brazil1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Brazil Server 2",
+        "ip": "brazil2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Brazil Server 3",
+        "ip": "brazil3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Brazil Server 4",
+        "ip": "brazil4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Brazil Server 5",
+        "ip": "brazil5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇹🇷 تركيا",
+    "servers": [
+      {
+        "name": "Turkey Server 1",
+        "ip": "turkey1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Turkey Server 2",
+        "ip": "turkey2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Turkey Server 3",
+        "ip": "turkey3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Turkey Server 4",
+        "ip": "turkey4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Turkey Server 5",
+        "ip": "turkey5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇲🇽 المكسيك",
+    "servers": [
+      {
+        "name": "Mexico Server 1",
+        "ip": "mexico1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Mexico Server 2",
+        "ip": "mexico2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Mexico Server 3",
+        "ip": "mexico3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Mexico Server 4",
+        "ip": "mexico4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Mexico Server 5",
+        "ip": "mexico5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇮🇳 الهند",
+    "servers": [
+      {
+        "name": "India Server 1",
+        "ip": "india1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "India Server 2",
+        "ip": "india2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "India Server 3",
+        "ip": "india3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "India Server 4",
+        "ip": "india4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "India Server 5",
+        "ip": "india5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇸🇬 سنغافورة",
+    "servers": [
+      {
+        "name": "Singapore Server 1",
+        "ip": "singapore1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Singapore Server 2",
+        "ip": "singapore2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Singapore Server 3",
+        "ip": "singapore3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Singapore Server 4",
+        "ip": "singapore4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Singapore Server 5",
+        "ip": "singapore5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇮🇩 إندونيسيا",
+    "servers": [
+      {
+        "name": "Indonesia Server 1",
+        "ip": "indonesia1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Indonesia Server 2",
+        "ip": "indonesia2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Indonesia Server 3",
+        "ip": "indonesia3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Indonesia Server 4",
+        "ip": "indonesia4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Indonesia Server 5",
+        "ip": "indonesia5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇿🇦 جنوب أفريقيا",
+    "servers": [
+      {
+        "name": "SouthAfrica Server 1",
+        "ip": "southafrica1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "SouthAfrica Server 2",
+        "ip": "southafrica2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "SouthAfrica Server 3",
+        "ip": "southafrica3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "SouthAfrica Server 4",
+        "ip": "southafrica4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "SouthAfrica Server 5",
+        "ip": "southafrica5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇸🇦 السعودية",
+    "servers": [
+      {
+        "name": "SaudiArabia Server 1",
+        "ip": "saudi1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "SaudiArabia Server 2",
+        "ip": "saudi2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "SaudiArabia Server 3",
+        "ip": "saudi3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "SaudiArabia Server 4",
+        "ip": "saudi4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "SaudiArabia Server 5",
+        "ip": "saudi5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇪🇬 مصر",
+    "servers": [
+      {
+        "name": "Egypt Server 1",
+        "ip": "egypt1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Egypt Server 2",
+        "ip": "egypt2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Egypt Server 3",
+        "ip": "egypt3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Egypt Server 4",
+        "ip": "egypt4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Egypt Server 5",
+        "ip": "egypt5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  },
+  {
+    "country": "🇵🇭 الفلبين",
+    "servers": [
+      {
+        "name": "Philippines Server 1",
+        "ip": "philippines1.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Philippines Server 2",
+        "ip": "philippines2.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Philippines Server 3",
+        "ip": "philippines3.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Philippines Server 4",
+        "ip": "philippines4.vpn.net",
+        "ping": "auto"
+      },
+      {
+        "name": "Philippines Server 5",
+        "ip": "philippines5.vpn.net",
+        "ping": "auto"
+      }
+    ]
+  }
+]
