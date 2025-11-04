@@ -1,603 +1,688 @@
-[
-  {
-    "country": "us  American ",
-   
-    "servers": [
-      {
-        "name": "USA Server 1",
-        "ip": "usa1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "USA Server 2",
-        "ip": "usa2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "USA Server 3",
-        "ip": "usa3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "USA Server 4",
-        "ip": "usa4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "USA Server 5",
-        "ip": "usa5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇬🇧 المملكة المتحدة",
-    "servers": [
-      {
-        "name": "UK Server 1",
-        "ip": "uk1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "UK Server 2",
-        "ip": "uk2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "UK Server 3",
-        "ip": "uk3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "UK Server 4",
-        "ip": "uk4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "UK Server 5",
-        "ip": "uk5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇩🇪 ألمانيا",
-    "servers": [
-      {
-        "name": "Germany Server 1",
-        "ip": "germany1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Germany Server 2",
-        "ip": "germany2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Germany Server 3",
-        "ip": "germany3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Germany Server 4",
-        "ip": "germany4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Germany Server 5",
-        "ip": "germany5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇨🇦 كندا",
-    "servers": [
-      {
-        "name": "Canada Server 1",
-        "ip": "canada1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Canada Server 2",
-        "ip": "canada2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Canada Server 3",
-        "ip": "canada3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Canada Server 4",
-        "ip": "canada4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Canada Server 5",
-        "ip": "canada5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇫🇷 france",
-    "servers": [
-      {
-        "name": "France Server 1",
-        "ip": "france1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "France Server 2",
-        "ip": "france2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "France Server 3",
-        "ip": "france3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "France Server 4",
-        "ip": "france4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "France Server 5",
-        "ip": "france5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇦🇺 أستراليا",
-    "servers": [
-      {
-        "name": "Australia Server 1",
-        "ip": "australia1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Australia Server 2",
-        "ip": "australia2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Australia Server 3",
-        "ip": "australia3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Australia Server 4",
-        "ip": "australia4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Australia Server 5",
-        "ip": "australia5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇯🇵 اليابان",
-    "servers": [
-      {
-        "name": "Japan Server 1",
-        "ip": "japan1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Japan Server 2",
-        "ip": "japan2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Japan Server 3",
-        "ip": "japan3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Japan Server 4",
-        "ip": "japan4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Japan Server 5",
-        "ip": "japan5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇰🇷 كوريا الجنوبية",
-    "servers": [
-      {
-        "name": "Korea Server 1",
-        "ip": "korea1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Korea Server 2",
-        "ip": "korea2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Korea Server 3",
-        "ip": "korea3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Korea Server 4",
-        "ip": "korea4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Korea Server 5",
-        "ip": "korea5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇳🇱 هولندا",
-    "servers": [
-      {
-        "name": "Netherlands Server 1",
-        "ip": "netherlands1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Netherlands Server 2",
-        "ip": "netherlands2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Netherlands Server 3",
-        "ip": "netherlands3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Netherlands Server 4",
-        "ip": "netherlands4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Netherlands Server 5",
-        "ip": "netherlands5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇸🇪 السويد",
-    "servers": [
-      {
-        "name": "Sweden Server 1",
-        "ip": "sweden1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Sweden Server 2",
-        "ip": "sweden2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Sweden Server 3",
-        "ip": "sweden3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Sweden Server 4",
-        "ip": "sweden4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Sweden Server 5",
-        "ip": "sweden5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇧🇷 البرازيل",
-    "servers": [
-      {
-        "name": "Brazil Server 1",
-        "ip": "brazil1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Brazil Server 2",
-        "ip": "brazil2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Brazil Server 3",
-        "ip": "brazil3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Brazil Server 4",
-        "ip": "brazil4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Brazil Server 5",
-        "ip": "brazil5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇹🇷 تركيا",
-    "servers": [
-      {
-        "name": "Turkey Server 1",
-        "ip": "turkey1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Turkey Server 2",
-        "ip": "turkey2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Turkey Server 3",
-        "ip": "turkey3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Turkey Server 4",
-        "ip": "turkey4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Turkey Server 5",
-        "ip": "turkey5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇲🇽 المكسيك",
-    "servers": [
-      {
-        "name": "Mexico Server 1",
-        "ip": "mexico1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Mexico Server 2",
-        "ip": "mexico2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Mexico Server 3",
-        "ip": "mexico3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Mexico Server 4",
-        "ip": "mexico4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Mexico Server 5",
-        "ip": "mexico5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇮🇳 الهند",
-    "servers": [
-      {
-        "name": "India Server 1",
-        "ip": "india1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "India Server 2",
-        "ip": "india2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "India Server 3",
-        "ip": "india3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "India Server 4",
-        "ip": "india4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "India Server 5",
-        "ip": "india5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇸🇬 سنغافورة",
-    "servers": [
-      {
-        "name": "Singapore Server 1",
-        "ip": "singapore1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Singapore Server 2",
-        "ip": "singapore2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Singapore Server 3",
-        "ip": "singapore3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Singapore Server 4",
-        "ip": "singapore4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Singapore Server 5",
-        "ip": "singapore5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇮🇩 إندونيسيا",
-    "servers": [
-      {
-        "name": "Indonesia Server 1",
-        "ip": "indonesia1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Indonesia Server 2",
-        "ip": "indonesia2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Indonesia Server 3",
-        "ip": "indonesia3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Indonesia Server 4",
-        "ip": "indonesia4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Indonesia Server 5",
-        "ip": "indonesia5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇿🇦 جنوب أفريقيا",
-    "servers": [
-      {
-        "name": "SouthAfrica Server 1",
-        "ip": "southafrica1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "SouthAfrica Server 2",
-        "ip": "southafrica2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "SouthAfrica Server 3",
-        "ip": "southafrica3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "SouthAfrica Server 4",
-        "ip": "southafrica4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "SouthAfrica Server 5",
-        "ip": "southafrica5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇸🇦 السعودية",
-    "servers": [
-      {
-        "name": "SaudiArabia Server 1",
-        "ip": "saudi1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "SaudiArabia Server 2",
-        "ip": "saudi2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "SaudiArabia Server 3",
-        "ip": "saudi3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "SaudiArabia Server 4",
-        "ip": "saudi4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "SaudiArabia Server 5",
-        "ip": "saudi5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇪🇬 مصر",
-    "servers": [
-      {
-        "name": "Egypt Server 1",
-        "ip": "egypt1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Egypt Server 2",
-        "ip": "egypt2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Egypt Server 3",
-        "ip": "egypt3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Egypt Server 4",
-        "ip": "egypt4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Egypt Server 5",
-        "ip": "egypt5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  },
-  {
-    "country": "🇵🇭 الفلبين",
-    "servers": [
-      {
-        "name": "Philippines Server 1",
-        "ip": "philippines1.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Philippines Server 2",
-        "ip": "philippines2.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Philippines Server 3",
-        "ip": "philippines3.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Philippines Server 4",
-        "ip": "philippines4.vpn.net",
-        "ping": "auto"
-      },
-      {
-        "name": "Philippines Server 5",
-        "ip": "philippines5.vpn.net",
-        "ping": "auto"
-      }
-    ]
-  }
-]
+{
+  "servers": [
+    {
+      "name": "🇯🇵 Japan Server 1",
+      "country": "Japan",
+      "type": "OpenVPN",
+      "endpoint": "public-vpn-227.opengw.net:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇯🇵 Japan Server 2",
+      "country": "Japan",
+      "type": "WireGuard",
+      "endpoint": "wg://jp2-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇯🇵 Japan Server 3",
+      "country": "Japan",
+      "type": "HTTPS",
+      "endpoint": "https://jp3-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇯🇵 Japan Server 4",
+      "country": "Japan",
+      "type": "SOCKS5",
+      "endpoint": "socks5://jp4-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇯🇵 Japan Server 5",
+      "country": "Japan",
+      "type": "HTTPS",
+      "endpoint": "https://jp5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇺🇸 USA Server 1",
+      "country": "USA",
+      "type": "HTTPS",
+      "endpoint": "https://us1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇺🇸 USA Server 2",
+      "country": "USA",
+      "type": "SOCKS5",
+      "endpoint": "socks5://us2-vpn.example.com:1080",
+      "stability": "High"
+    },
+    {
+      "name": "🇺🇸 USA Server 3",
+      "country": "USA",
+      "type": "WireGuard",
+      "endpoint": "wg://us3-vpn.example.com:51820",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇺🇸 USA Server 4",
+      "country": "USA",
+      "type": "OpenVPN",
+      "endpoint": "https://us4-vpn.example.com:443",
+      "stability": "Medium"
+   },
+    {
+      "name": "🇺🇸 USA Server 5",
+      "country": "USA",
+      "type": "HTTPS",
+      "endpoint": "https://us5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇨🇦 Canada Server 1",
+      "country": "Canada",
+      "type": "HTTPS",
+      "endpoint": "https://ca1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇨🇦 Canada Server 2",
+      "country": "Canada",
+      "type": "SOCKS5",
+      "endpoint": "socks5://ca2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇨🇦 Canada Server 3",
+      "country": "Canada",
+      "type": "WireGuard",
+      "endpoint": "wg://ca3-vpn.example.com:51820",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇨🇦 Canada Server 4",
+      "country": "Canada",
+      "type": "OpenVPN",
+      "endpoint": "https://ca4-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇨🇦 Canada Server 5",
+      "country": "Canada",
+      "type": "HTTPS",
+      "endpoint": "https://ca5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇩🇪 Germany Server 1",
+      "country": "Germany",
+      "type": "HTTPS",
+      "endpoint": "https://de1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇩🇪 Germany Server 2",
+      "country": "Germany",
+      "type": "SOCKS5",
+      "endpoint": "socks5://de2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇩🇪 Germany Server 3",
+      "country": "Germany",
+      "type": "WireGuard",
+      "endpoint": "wg://de3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇩🇪 Germany Server 4",
+      "country": "Germany",
+      "type": "OpenVPN",
+      "endpoint": "https://de4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇩🇪 Germany Server 5",
+      "country": "Germany",
+      "type": "HTTPS",
+      "endpoint": "https://de5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇫🇷 France Server 1",
+      "country": "France",
+      "type": "HTTPS",
+      "endpoint": "https://fr1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇫🇷 France Server 2",
+      "country": "France",
+      "type": "SOCKS5",
+      "endpoint": "socks5://fr2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇫🇷 France Server 3",
+      "country": "France",
+      "type": "WireGuard",
+      "endpoint": "wg://fr3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇫🇷 France Server 4",
+      "country": "France",
+      "type": "OpenVPN",
+      "endpoint": "https://fr4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇫🇷 France Server 5",
+      "country": "France",
+      "type": "HTTPS",
+      "endpoint": "https://fr5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇮🇹 Italy Server 1",
+      "country": "Italy",
+      "type": "HTTPS",
+      "endpoint": "https://it1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇮🇹 Italy Server 2",
+      "country": "Italy",
+      "type": "SOCKS5",
+      "endpoint": "socks5://it2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇮🇹 Italy Server 3",
+      "country": "Italy",
+      "type": "WireGuard",
+      "endpoint": "wg://it3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇮🇹 Italy Server 4",
+      "country": "Italy",
+      "type": "OpenVPN",
+      "endpoint": "https://it4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇮🇹 Italy Server 5",
+      "country": "Italy",
+      "type": "HTTPS",
+      "endpoint": "https://it5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇪🇸 Spain Server 1",
+      "country": "Spain",
+      "type": "HTTPS",
+      "endpoint": "https://es1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇪🇸 Spain Server 2",
+      "country": "Spain",
+      "type": "SOCKS5",
+      "endpoint": "socks5://es2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇪🇸 Spain Server 3",
+      "country": "Spain",
+      "type": "WireGuard",
+      "endpoint": "wg://es3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇪🇸 Spain Server 4",
+      "country": "Spain",
+      "type": "OpenVPN",
+      "endpoint": "https://es4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇪🇸 Spain Server 5",
+      "country": "Spain",
+      "type": "HTTPS",
+      "endpoint": "https://es5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇧🇷 Brazil Server 1",
+      "country": "Brazil",
+      "type": "HTTPS",
+      "endpoint": "https://br1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇧🇷 Brazil Server 2",
+      "country": "Brazil",
+      "type": "SOCKS5",
+      "endpoint": "socks5://br2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇧🇷 Brazil Server 3",
+      "country": "Brazil",
+      "type": "WireGuard",
+      "endpoint": "wg://br3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇧🇷 Brazil Server 4",
+      "country": "Brazil",
+      "type": "OpenVPN",
+      "endpoint": "https://br4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇧🇷 Brazil Server 5",
+      "country": "Brazil",
+      "type": "HTTPS",
+      "endpoint": "https://br5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇸🇬 Singapore Server 1",
+      "country": "Singapore",
+      "type": "HTTPS",
+      "endpoint": "https://sg1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇸🇬 Singapore Server 2",
+      "country": "Singapore",
+      "type": "SOCKS5",
+      "endpoint": "socks5://sg2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇸🇬 Singapore Server 3",
+      "country": "Singapore",
+      "type": "WireGuard",
+      "endpoint": "wg://sg3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇸🇬 Singapore Server 4",
+      "country": "Singapore",
+      "type": "OpenVPN",
+      "endpoint": "https://sg4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇸🇬 Singapore Server 5",
+      "country": "Singapore",
+      "type": "HTTPS",
+      "endpoint": "https://sg5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇰🇷 South Korea Server 1",
+      "country": "South Korea",
+      "type": "HTTPS",
+      "endpoint": "https://kr1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇰🇷 South Korea Server 2",
+      "country": "South Korea",
+      "type": "SOCKS5",
+      "endpoint": "socks5://kr2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇰🇷 South Korea Server 3",
+      "country": "South Korea",
+      "type": "WireGuard",
+      "endpoint": "wg://kr3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇰🇷 South Korea Server 4",
+      "country": "South Korea",
+      "type": "OpenVPN",
+      "endpoint": "https://kr4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇰🇷 South Korea Server 5",
+      "country": "South Korea",
+      "type": "HTTPS",
+      "endpoint": "https://kr5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇮🇳 India Server 1",
+      "country": "India",
+      "type": "HTTPS",
+      "endpoint": "https://in1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇮🇳 India Server 2",
+      "country": "India",
+      "type": "SOCKS5",
+      "endpoint": "socks5://in2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇮🇳 India Server 3",
+      "country": "India",
+      "type": "WireGuard",
+      "endpoint": "wg://in3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇮🇳 India Server 4",
+      "country": "India",
+      "type": "OpenVPN",
+      "endpoint": "https://in4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇮🇳 India Server 5",
+      "country": "India",
+      "type": "HTTPS",
+      "endpoint": "https://in5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇷🇺 Russia Server 1",
+      "country": "Russia",
+      "type": "HTTPS",
+      "endpoint": "https://ru1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇷🇺 Russia Server 2",
+      "country": "Russia",
+      "type": "SOCKS5",
+      "endpoint": "socks5://ru2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇷🇺 Russia Server 3",
+      "country": "Russia",
+      "type": "WireGuard",
+      "endpoint": "wg://ru3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇷🇺 Russia Server 4",
+      "country": "Russia",
+      "type": "OpenVPN",
+      "endpoint": "https://ru4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇷🇺 Russia Server 5",
+      "country": "Russia",
+      "type": "HTTPS",
+      "endpoint": "https://ru5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇳🇱 Netherlands Server 1",
+      "country": "Netherlands",
+      "type": "HTTPS",
+      "endpoint": "https://nl1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇳🇱 Netherlands Server 2",
+      "country": "Netherlands",
+      "type": "SOCKS5",
+      "endpoint": "socks5://nl2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇳🇱 Netherlands Server 3",
+      "country": "Netherlands",
+      "type": "WireGuard",
+      "endpoint": "wg://nl3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇳🇱 Netherlands Server 4",
+      "country": "Netherlands",
+      "type": "OpenVPN",
+      "endpoint": "https://nl4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇳🇱 Netherlands Server 5",
+      "country": "Netherlands",
+      "type": "HTTPS",
+      "endpoint": "https://nl5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇸🇪 Sweden Server 1",
+      "country": "Sweden",
+      "type": "HTTPS",
+      "endpoint": "https://se1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇸🇪 Sweden Server 2",
+      "country": "Sweden",
+      "type": "SOCKS5",
+      "endpoint": "socks5://se2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇸🇪 Sweden Server 3",
+      "country": "Sweden",
+      "type": "WireGuard",
+      "endpoint": "wg://se3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇸🇪 Sweden Server 4",
+      "country": "Sweden",
+      "type": "OpenVPN",
+      "endpoint": "https://se4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇸🇪 Sweden Server 5",
+      "country": "Sweden",
+      "type": "HTTPS",
+      "endpoint": "https://se5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇨🇭 Switzerland Server 1",
+      "country": "Switzerland",
+      "type": "HTTPS",
+      "endpoint": "https://ch1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇨🇭 Switzerland Server 2",
+      "country": "Switzerland",
+      "type": "SOCKS5",
+      "endpoint": "socks5://ch2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇨🇭 Switzerland Server 3",
+      "country": "Switzerland",
+      "type": "WireGuard",
+      "endpoint": "wg://ch3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇨🇭 Switzerland Server 4",
+      "country": "Switzerland",
+      "type": "OpenVPN",
+      "endpoint": "https://ch4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇨🇭 Switzerland Server 5",
+      "country": "Switzerland Server 5",
+      "country": "Switzerland",
+      "type": "HTTPS",
+      "endpoint": "https://ch5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇦🇺 Australia Server 1",
+      "country": "Australia",
+      "type": "HTTPS",
+      "endpoint": "https://au1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇦🇺 Australia Server 2",
+      "country": "Australia",
+      "type": "SOCKS5",
+      "endpoint": "socks5://au2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇦🇺 Australia Server 3",
+      "country": "Australia",
+      "type": "WireGuard",
+      "endpoint": "wg://au3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇦🇺 Australia Server 4",
+      "country": "Australia",
+      "type": "OpenVPN",
+      "endpoint": "https://au4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇦🇺 Australia Server 5",
+      "country": "Australia",
+      "type": "HTTPS",
+      "endpoint": "https://au5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇲🇾 Malaysia Server 1",
+      "country": "Malaysia",
+      "type": "HTTPS",
+      "endpoint": "https://my1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇲🇾 Malaysia Server 2",
+      "country": "Malaysia",
+      "type": "SOCKS5",
+      "endpoint": "socks5://my2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇲🇾 Malaysia Server 3",
+      "country": "Malaysia",
+      "type": "WireGuard",
+      "endpoint": "wg://my3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇲🇾 Malaysia Server 4",
+      "country": "Malaysia",
+      "type": "OpenVPN",
+      "endpoint": "https://my4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇲🇾 Malaysia Server 5",
+      "country": "Malaysia",
+      "type": "HTTPS",
+      "endpoint": "https://my5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇲🇽 Mexico Server 1",
+      "country": "Mexico",
+      "type": "HTTPS",
+      "endpoint": "https://mx1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇲🇽 Mexico Server 2",
+      "country": "Mexico",
+      "type": "SOCKS5",
+      "endpoint": "socks5://mx2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇲🇽 Mexico Server 3",
+      "country": "Mexico",
+      "type": "WireGuard",
+      "endpoint": "wg://mx3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇲🇽 Mexico Server 4",
+      "country": "Mexico",
+      "type": "OpenVPN",
+      "endpoint": "https://mx4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇲🇽 Mexico Server 5",
+      "country": "Mexico",
+      "type": "HTTPS",
+      "endpoint": "https://mx5-vpn.example.com",
+      "stability": "Low"
+    },
+
+    {
+      "name": "🇦🇪 UAE Server 1",
+      "country": "UAE",
+      "type": "HTTPS",
+      "endpoint": "https://ae1-vpn.example.com:443",
+      "stability": "High"
+    },
+    {
+      "name": "🇦🇪 UAE Server 2",
+      "country": "UAE",
+      "type": "SOCKS5",
+      "endpoint": "socks5://ae2-vpn.example.com:1080",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇦🇪 UAE Server 3",
+      "country": "UAE",
+      "type": "WireGuard",
+      "endpoint": "wg://ae3-vpn.example.com:51820",
+      "stability": "High"
+    },
+    {
+      "name": "🇦🇪 UAE Server 4",
+      "country": "UAE",
+      "type": "OpenVPN",
+      "endpoint": "https://ae4-vpn.example.com:443",
+      "stability": "Medium"
+    },
+    {
+      "name": "🇦🇪 UAE Server 5",
+      "country": "UAE",
+      "type": "HTTPS",
+      "endpoint": "https://ae5-vpn.example.com",
+      "stability": "Low"
+    }
+  ]
+}
